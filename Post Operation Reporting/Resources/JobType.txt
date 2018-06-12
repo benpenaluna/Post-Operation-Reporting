@@ -1,0 +1,167 @@
+﻿Air Observations and Assessment
+Aircraft Incident - Aircraft in Difficulty
+Aircraft Incident - Insufficient Information to Classify
+Aircraft Incident - No Injuries, Extrication
+Aircraft Incident - No injuries, No Extrication
+Aircraft Incident - With Injuries, Extrication
+Aircraft Incident - With Injuries, No Extrication
+Alpine Rescue
+Animal Rescue - From Dam
+Animal Rescue - From in or under Structure
+Animal Rescue - From Mobile Property
+Animal Rescue - From River to Creek
+Animal Rescue - From Tree
+Animal Rescue - From Well or Mine
+Animal Rescue - Other
+Assist Ambulance - Casualty Handling Only
+Assist Ambulance - Drive Ambulance
+Assist Ambulance - First Aid & Casualty Handling
+Assist Ambulance - First Aid Only
+Assist Ambulance - Specialist Resource Response - Lighting or Other
+Assist Ambulance - Specialist Resource Response - Mass Casualty
+Assist AMSA - Missing Person
+Assist AMSA - Missing Plane or Boat
+Assist DELWP (Non-Fire)
+Assist DELWP (Primary Industry)
+Assist DHS
+Assist Fire - Damage to Structure - Permanent or Mobile Property
+Assist Fire - Landing Zone Management or Support
+Assist Fire - Logistics Support
+Assist Fire - Staging Area Management or Support
+Assist Local Council - Shire
+Assist Other Government Agency
+Assist Police - Crime Scene
+Assist Police - Damage to Structure - Permanent or Mobile Property
+Assist Police - Emergency Coordination Centre - Divisional (DECC)
+Assist Police - Emergency Coordination Centre - Municipal (MECC)
+Assist Police - Evacuation
+Assist Police - Missing Person
+Assist Red Cross
+Assist Service Club
+Building Damage - Multi Storey - External
+Building Damage - Multi Storey - Including Sheeting Iron Roof
+Building Damage - Multi Storey - Including Tiles Roof
+Building Damage - Multi Storey - Internal
+Building Damage - Shed, Outbuilding, etc.
+Building Damage - Single Storey - External
+Building Damage - Single Storey - Including Sheeting Iron Roof
+Building Damage - Single Storey - Including Tiles Roof
+Building Damage - Single Storey - Internal
+Community Education - Other
+Control Centre - Assist Agency
+Control Centre - Earthquake
+Control Centre - Flood
+Control Centre - RAIR Rescue
+Control Centre - Rescue Other
+Control Centre - Storm
+Control Centre - Tsunami
+Control Centre - Unclassified
+Cover Assignment, Standby at LHQ
+Dispatched and Cancelled En-Route - Assist Agency
+Dispatched and Cancelled En-Route - Earthquake
+Dispatched and Cancelled En-Route - Flood
+Dispatched and Cancelled En-Route - RAIR Rescue
+Dispatched and Cancelled En-Route - Rescue Other
+Dispatched and Cancelled En-Route - Storm
+Dispatched and Cancelled En-Route - Tsunami
+Dispatched and Cancelled En-Route - Unclassified
+Driver Reviver
+Duress - Accidental Activation
+Duress - Hostile Situation
+Duress - Misuse
+Duress - Rescue Required
+Duress - Serious Accident - MVA
+Duress - Serious Injuries
+Fire Agency Liaison - CFA
+Fire Agency Liaison - DELWP
+Fire Agency Liaison - MFB
+Flood Smart
+Flooding - Appliance Failure
+Flooding - Burst Water Pipe or Main
+Flooding - Dam Incident or Failure
+Flooding - Flash Flooding
+Flooding - Mitigation
+Flooding - Other (Bath Overflow, etc.)
+Flooding - Riverina
+Fundraising - Charity
+Fundraising - Community Group
+Fundraising - Other ESO
+Fundraising - SES
+Good Intent Call - Insufficient Information to Classify
+Good Intent Call - Not Classified
+Ground Observations and Assessment
+Industrial Accident - Insufficient Information to Classify
+Industrial Accident - No Injuries, Extrication
+Industrial Accident - No injuries, No Extrication
+Industrial Accident - With Injuries, Extrication
+Industrial Accident - With Injuries, No Extrication
+Medical Assistance - Insufficient Information to Classify
+Medical Assistance - Not Classified
+Medical Assistance - With CPR-EAR
+Medical Assistance - With Oxygen Therapy
+Other Condition
+Other Service Call - Insufficient Information to Classify
+Other Service Call - Not Classified
+PR - Church/Charity
+PR - Local Community Festival, Event, Show
+PR - Local Community Group
+PR - Major Event - Avalon Airshow
+PR - Major Event - F1 Grand Prix
+PR - Major Event - Melbourne Show
+PR - Major Event - Moto Grand Prix
+PR - School - University - TAFE
+PR - Service Club, Lions, Rotary, Probus
+Rail Incident - Insufficient Information to Classify
+Rail Incident - No Injuries, Extrication
+Rail Incident - No injuries, No Extrication
+Rail Incident - With Injuries, Extrication
+Rail Incident - With Injuries, No Extrication
+Relief - Earthquake
+Relief - Fire
+Relief - Health Event
+Relief - Other
+Relief - Storm & Flood
+Relief - Tsunami
+Rescue - Coverage of another Provider
+Rescue Persons - Confined Space Rescue
+Rescue Persons - Domestic
+Rescue Persons - Elevator or Escalator - Removal of Victims
+Rescue Persons - Evelator or Escalator - No Occupants
+Rescue Persons - Extrication of Victim(s) from Structural Collapse
+Rescue Persons - Marine Rescue
+Rescue Persons - Rope Rescue
+Rescue Persons - Trench Rescue
+Rescue Standby at Public Event
+Rescue, EMS Calls - Insufficient Information to Classify
+Rescue, EMS Calls - Not Classified
+Road Rescue - Insufficient Information to Classify
+Road Rescue - No Injuries, Extrication
+Road Rescue - No injuries, No Extrication
+Road Rescue - With Injuries, Extrication
+Road Rescue - With Injuries, No Extrication
+Storm Smart
+Traffic Management - Fire Control Agency
+Traffic Management - Police Control Agency
+Traffic Management - SES Control Agency
+Tree Down - Limiting Access
+Tree Down - Mobile Property
+Tree Down - Non Threatening (backyard, etc.)
+Tree Down - Non-Structure (arch, fence, hedge, hooked up in another tree, etc.)
+Tree Down - Passed to Council
+Tree Down - Passed to DELWP or Parks Victoria
+Tree Down - Permanent Property
+Tree Down Traffic Hazard - Blocked Roadway (Fully)
+Tree Down Traffic Hazard - Blocked Roadway (Partially)
+Tree Down Traffic Hazard - Passed to Council
+Tree Down Traffic Hazard - Passed to DELWP or Parks Victoria
+Tree Down Traffic Hazard - Passed to Federal Authority
+Tree Down Traffic Hazard - Passed to Roadway Operator (Citylink, Eastlink etc.)
+Tree Down Traffic Hazard - Passed to VICROADS
+Type of Incident not Reported due to Industrial Action
+Type of Incident Undetermined
+Warning - Fire
+Warning - Flood
+Warning - Other
+Warning - Storm
+Warning - Tsunami
+Wrong Location
